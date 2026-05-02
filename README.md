@@ -50,15 +50,9 @@ End-to-end analysis of 2,823 sales orders across 19 countries using SQL, Python 
 - Sales by Country, Product Line, Month, Deal Size
 - Total Revenue card — 1.79M
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Sales Dashboard.png)
 
----
 
-## Files
-| File | Description |
-|------|-------------|
-| `sales_queries.sql` | All SQL queries |
-| `sales_analysis.ipynb` | Python EDA notebook |
-| `Sales_Dashboard.pbix` | Power BI dashboard file |
-| `sales_data_sample.csv` | Dataset |
+
+
 
